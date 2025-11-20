@@ -1,0 +1,40 @@
+{
+    "name": "SD-Preferred",
+    "qualities": [
+        {
+            "id": 7,
+            "name": "SDTV"
+        },
+        {
+            "id": 8,
+            "name": "DVD"
+        },
+        {
+            "id": 9,
+            "name": "DVD-R"
+        },
+        {
+            "id": 12,
+            "name": "WEBDL-480p"
+        },
+        {
+            "id": 13,
+            "name": "WEBRip-480p"
+        },
+        {
+            "id": 18,
+            "name": "HDTV-720p"
+        },
+        {
+            "id": 19,
+            "name": "WEBDL-720p"
+        },
+        {
+            "id": 20,
+            "name": "WEBRip-720p"
+        }
+    ],
+    "cutoff": "WEBDL-480p",
+    "min_format_score": 0,
+    "upgrade_allowed": false
+}
