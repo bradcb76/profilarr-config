@@ -1,0 +1,86 @@
+{
+    "profiles": [
+        {
+            "name": "SD",
+            "qualities": [
+                {
+                    "id": 7,
+                    "name": "SDTV"
+                },
+                {
+                    "id": 8,
+                    "name": "DVD"
+                },
+                {
+                    "id": 9,
+                    "name": "DVD-R"
+                },
+                {
+                    "id": 12,
+                    "name": "WEBDL-480p"
+                },
+                {
+                    "id": 13,
+                    "name": "WEBRip-480p"
+                },
+                {
+                    "id": 18,
+                    "name": "HDTV-720p"
+                },
+                {
+                    "id": 19,
+                    "name": "WEBDL-720p"
+                },
+                {
+                    "id": 20,
+                    "name": "WEBRip-720p"
+                }
+            ],
+            "min_format_score": 0,
+            "cutoff": "WEBRip-720p",
+            "upgrade_allowed": false
+        }
+    ],
+    "quality_definitions": {
+        "7": {
+            "min": 0,
+            "preferred": 500,
+            "max": 900
+        },
+        "8": {
+            "min": 0,
+            "preferred": 600,
+            "max": 900
+        },
+        "9": {
+            "min": 0,
+            "preferred": 600,
+            "max": 900
+        },
+        "12": {
+            "min": 0,
+            "preferred": 850,
+            "max": 1200
+        },
+        "13": {
+            "min": 0,
+            "preferred": 850,
+            "max": 1200
+        },
+        "18": {
+            "min": 0,
+            "preferred": 1200,
+            "max": 2000
+        },
+        "19": {
+            "min": 0,
+            "preferred": 1200,
+            "max": 2000
+        },
+        "20": {
+            "min": 0,
+            "preferred": 1200,
+            "max": 2000
+        }
+    }
+}
