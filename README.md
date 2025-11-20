@@ -1,0 +1,1 @@
+Profilarr configuration files.
